@@ -11,5 +11,6 @@ int main() {
         cout << n << " < " << m << endl;
     } else {
         cout << n << " = " << m << endl;
+        cout << "РАВНО" << endl;
     }
 }
